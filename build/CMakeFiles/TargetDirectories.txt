@@ -1,0 +1,3 @@
+/mnt/f/education/41/soft computing/ass1/build/CMakeFiles/ass1.dir
+/mnt/f/education/41/soft computing/ass1/build/CMakeFiles/edit_cache.dir
+/mnt/f/education/41/soft computing/ass1/build/CMakeFiles/rebuild_cache.dir
